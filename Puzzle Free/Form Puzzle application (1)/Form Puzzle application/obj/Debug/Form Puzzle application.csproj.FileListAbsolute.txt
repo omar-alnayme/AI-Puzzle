@@ -1,0 +1,9 @@
+C:\Personal Projecs\University\Form Puzzle application\Form Puzzle application\bin\Debug\Form Puzzle application.exe.config
+C:\Personal Projecs\University\Form Puzzle application\Form Puzzle application\bin\Debug\Form Puzzle application.exe
+C:\Personal Projecs\University\Form Puzzle application\Form Puzzle application\bin\Debug\Form Puzzle application.pdb
+C:\Personal Projecs\University\Form Puzzle application\Form Puzzle application\obj\Debug\Form Puzzle application.csprojResolveAssemblyReference.cache
+C:\Personal Projecs\University\Form Puzzle application\Form Puzzle application\obj\Debug\Form_Puzzle_application.Form1.resources
+C:\Personal Projecs\University\Form Puzzle application\Form Puzzle application\obj\Debug\Form_Puzzle_application.Properties.Resources.resources
+C:\Personal Projecs\University\Form Puzzle application\Form Puzzle application\obj\Debug\Form Puzzle application.csproj.GenerateResource.Cache
+C:\Personal Projecs\University\Form Puzzle application\Form Puzzle application\obj\Debug\Form Puzzle application.exe
+C:\Personal Projecs\University\Form Puzzle application\Form Puzzle application\obj\Debug\Form Puzzle application.pdb
