@@ -1,5 +1,5 @@
 # AI-Puzzle
-Puzzle Game with AI search techniques 
+Puzzle Game with AI graph search techniques
 
 Introducing an intuitive app designed for grasping the fundamentals of AI in a straightforward manner.
 
