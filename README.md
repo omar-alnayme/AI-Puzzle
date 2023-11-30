@@ -11,3 +11,5 @@ Which uses:
 -Depth First Search (DFS)
 -Breadth First Search (BFS)
 -Heuristic Search
+
+For an in-depth understanding of graph search operations and access to the application's source code, refer to the "Puzzle Game Document" file.
